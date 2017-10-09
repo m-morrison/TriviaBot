@@ -1,0 +1,26 @@
+{
+  "name": "triviabot",
+  "version": "1.0.0",
+  "description": "A chat bot to run a trivia game on a group message",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-morrison/TriviaBot.git"
+  },
+  "scripts": {
+    "test": "test trivia"
+  },
+  "keywords": [
+    "trivia",
+    "chatbot",
+    "microsoft",
+    "botframework",
+    "nodejs"
+  ],
+  "author": "Matthew Morrison",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.0.1"
+  }
+}
